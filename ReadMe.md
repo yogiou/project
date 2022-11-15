@@ -1,7 +1,5 @@
 ##### **ReadMe**
 
-###### _Candidate: Jie Wen_
-
 ###### _How to run the program?_
 Install Java SDK 13.
 find out the jar "project-1.0.0.RELEASE.jar" under "project" folder, open terminal and input command "java -jar project-1.0.0.RELEASE.jar"
